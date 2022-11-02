@@ -1,0 +1,7 @@
+#movie_player {
+    border-radius: 12px;
+}
+
+.ytd-player, .video-stream, .html5-main-video{
+    border-radius: 12px;
+}

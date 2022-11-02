@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "YT-Rounded",
+    "version": "0.1",
+    "description": "An extension to add border radius to YT web player.",
+
+    "content_scripts": [{
+        "matches": ["https://www.youtube.com/*"],
+        "css": ["my-style.css"],
+        "run_at": "document_start"
+    }]
+}
