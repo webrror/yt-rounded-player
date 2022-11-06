@@ -5,3 +5,7 @@
 .ytd-player, .video-stream, .html5-main-video{
     border-radius: 12px;
 }
+
+ytd-toggle-button-renderer.ytd-live-chat-frame{
+    border-radius: 0 0 12px 12px !important;
+}
