@@ -9,3 +9,7 @@
 ytd-toggle-button-renderer.ytd-live-chat-frame, .yt-spec-button-shape-next--mono.yt-spec-button-shape-next--text:hover{
     border-radius: 0 0 12px 12px !important;
 }
+
+.ytd-download-quality-selector-renderer #cancel-button .yt-spec-button-shape-next--mono.yt-spec-button-shape-next--text:hover{
+    border-radius: 18px !important;
+}
