@@ -9,3 +9,7 @@
 #show-hide-button .ytd-live-chat-frame, #show-hide-button .ytd-live-chat-frame .yt-spec-button-shape-next--mono.yt-spec-button-shape-next--text:hover{
     border-radius: 0 0 12px 12px !important;
 }
+
+ytd-reel-shelf-renderer{
+    display: none !important;
+}
